@@ -406,6 +406,7 @@
     - SecurityAmmo
     - SecurityWeapons
     - SecurityDisablers
+    - STVision # Stories-RND
   - type: EmagLatheRecipes
     emagStaticPacks:
     - SyndicateAmmoStatic
